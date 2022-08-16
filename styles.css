@@ -1,6 +1,65 @@
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&display=swap");
+
 /* Reset Universal Tag */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+/* General Section */
+body {
+  width: 100%;
+  background-color: #edede9;
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+/* Nav Bar Section */
+
+.bg-img {
+  background-image: url(./img/showcase.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  min-height: 900px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 30px;
+  flex-wrap: wrap;
+}
+
+.nav-main-name {
+  font-family: "Aboreto", cursive;
+  font-size: 28px;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 30px;
+  flex-wrap: wrap;
+}
+
+li {
+  margin: 14px;
+  font-family: "Aboreto", cursive;
+  font-size: 24px;
+}
+
+li:hover {
+  color: #3a5a40;
+  cursor: pointer;
+  border-bottom: 1px solid #3a5a40;
 }
