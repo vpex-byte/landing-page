@@ -1,0 +1,6 @@
+/* Reset Universal Tag */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
