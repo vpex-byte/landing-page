@@ -8,6 +8,8 @@ This project was created from **"The Odin Project"** curriculum.<p>Basic and sim
 
 ## Example of Page
 
+![Login](https://github.com/vpex-byte/landing-page/blob/main/examples/landing-page-2.png?raw=true)
+
 ## Links
 
 <a href="https://www.pexels.com/search/working%20office%20furniture/">Pixels</a > - for images
