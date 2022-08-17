@@ -226,7 +226,7 @@ img:hover {
 }
 
 .partners {
-  height: 200px;
+  min-height: 200px;
 }
 
 .partners-icons {
@@ -293,4 +293,53 @@ img:hover {
   transition: 0.7s;
   text-shadow: 0 0 10px #edede9;
   box-shadow: 1px 1px 1px 1px #edede9;
+}
+
+/* Footer */
+
+footer {
+  background-color: #0a0908;
+  color: #edede9;
+  max-width: 100%;
+}
+.footer-name {
+  font-family: "Aboreto", cursive;
+  text-align: center;
+  margin-left: 20px;
+}
+
+.footer-text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70px;
+  font-size: 14px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.fa-twitter,
+.fa-instagram,
+.fa-linkedin {
+  color: #edede9;
+  padding-right: 16px;
+  color: #edede9;
+  background: #0a090810;
+}
+.socials:hover {
+  transition: 0.7s;
+  text-shadow: 0 0 10px #edede9;
+  cursor: pointer;
+}
+
+.footer-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Empty container to center text on footer */
+.empty {
+  flex-basis: 140px;
 }
