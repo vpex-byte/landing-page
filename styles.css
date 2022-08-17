@@ -168,7 +168,6 @@ h3 {
 }
 
 .text {
-  /* display: flex; */
   width: 200px;
   text-align: center;
   margin-top: 6px;
@@ -201,7 +200,6 @@ img:hover {
   flex-direction: column;
   width: 500px;
   font-size: 28px;
-  /* border: 3px solid red; */
 }
 
 .fa-quote-left {
@@ -216,4 +214,29 @@ img:hover {
   margin-top: 20px;
   font-size: 30px;
   font-weight: bold;
+}
+
+/* Partners Section */
+
+.partners-title {
+  font-size: 15px;
+  font-weight: 900;
+  text-align: center;
+  margin: 50px 0;
+}
+
+.partners {
+  height: 200px;
+}
+
+.partners-icons {
+  justify-content: center;
+  gap: 70px;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.fa-brands {
+  color: #25242280;
 }
