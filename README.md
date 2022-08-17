@@ -15,4 +15,3 @@ This project was created from **"The Odin Project"** curriculum.<p>Basic and sim
 <p>
 <a href="https://www.branchfurniture.com/">Branch</a>for inspiration 
 </p>
- VLadaaaa
