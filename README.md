@@ -10,8 +10,8 @@ This project was created from **"The Odin Project"** curriculum.<p>Basic and sim
 
 ## Links
 
-<a href="https://www.pexels.com/search/working%20office%20furniture/">Pixels</a>-for images
+<a href="https://www.pexels.com/search/working%20office%20furniture/">Pixels</a > - for images
 
 <p>
-<a href="https://www.branchfurniture.com/">Branch</a>-for inspiration 
+<a href="https://www.branchfurniture.com/">Branch</a > - for inspiration 
 </p>
