@@ -6,8 +6,9 @@ This project was created from **"The Odin Project"** curriculum.<p>Basic and sim
 
 <p>This page is not <strong><em>responsive</em></strong>.Main goal was create simple but nice looking desktop page.</p>
 
-## Example of Page
+## Page Examples
 
+![Login](https://github.com/vpex-byte/landing-page/blob/main/examples/landing-page.png?raw=true)
 ![Login](https://github.com/vpex-byte/landing-page/blob/main/examples/landing-page-2.png?raw=true)
 
 ## Links
